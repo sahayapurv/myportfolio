@@ -1,10 +1,9 @@
 {
-  "homepage" : "https://sahayapurv.github.io/myportfolio/"
+  "homepage" : "https://sahayapurv.github.io/myportfolio/",
   "name": "dr-sahay-portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/repo-name/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
